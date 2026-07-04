@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [MIL_STD_1275D_PROTECTION.PrjPcb]
+   Generated File[Pick Place for MIL_STD_1275D.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:01:32 On 4.07.2026

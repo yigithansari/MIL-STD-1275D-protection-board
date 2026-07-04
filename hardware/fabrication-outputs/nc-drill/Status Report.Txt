@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MIL_STD_1275D_PROTECTION.PrjPcb]
+   Generated File[MIL_STD_1275D.TXT]
+   Generated File[MIL_STD_1275D.LDP]
+   Generated File[MIL_STD_1275D.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:00:24 On 4.07.2026

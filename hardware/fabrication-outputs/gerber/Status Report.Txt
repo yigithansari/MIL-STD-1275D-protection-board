@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [MIL_STD_1275D_PROTECTION.PrjPcb]
+   Generated File[MIL_STD_1275D_Copper_Signal_Top.gbr]
+   Generated File[MIL_STD_1275D_Copper_Signal_Bot.gbr]
+   Generated File[MIL_STD_1275D_Legend_Top.gbr]
+   Generated File[MIL_STD_1275D_Legend_Bot.gbr]
+   Generated File[MIL_STD_1275D_Soldermask_Top.gbr]
+   Generated File[MIL_STD_1275D_Soldermask_Bot.gbr]
+   Generated File[MIL_STD_1275D_Paste_Top.gbr]
+   Generated File[MIL_STD_1275D_Paste_Bot.gbr]
+   Generated File[MIL_STD_1275D_Profile.gbr]
+   Generated File[MIL_STD_1275D_NPTH_Drill.gbr]
+   Generated File[MIL_STD_1275D_PTH_Drill.gbr]
+   Generated File[MIL_STD_1275D.EXTREP]
+   Generated File[MIL_STD_1275D.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 15:44:45 On 4.07.2026
